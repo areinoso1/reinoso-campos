@@ -2,18 +2,18 @@ body{
   line-height: 1.5;
   font-size: 100%;
   /*font-family: 'PT Serif', serif;*/
-  font-family: Georgia, serif;
+  font-family: '', serif;
  font-weight:400;
-  color:#f00;
+  color:#ff0;
   background: #ff0;
   background-image: url(https://i.makeagif.com/media/8-22-2013/n39e8Q.gif);
 background-size: 100%;
 background-attachment: fixed;
 }
 
-a{color:#000; text-decoration: none; border-bottom:1px dotted #ccc;}
+a{color:#ff0; text-decoration: none; border-bottom:1px dotted #ccc;}
 
-a:hover{color:#f00; border-bottom:1px dotted #f00;}
+a:hover{color:#ff0; border-bottom:1px dotted #ff0;}
 
 :hover{transition: 0.5s ease all;}
 
